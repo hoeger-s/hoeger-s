@@ -4,10 +4,10 @@
 
 Hey, ich bin Stefan 👋
 
-Ich begeistere mich für IT und neue Technologien, ganz besonders für Infrastruktur, IT-Security und KI. Mir reicht es nicht, dass etwas nur funktioniert, ich will verstehen, warum.
+Ich begeistere mich für IT und neue Technologien, ganz besonders für Infrastruktur, IT-Security und KI. Mir reicht es nicht, dass etwas nur funktioniert, ich will verstehen warum.
 Deshalb probiere ich viel aus und teste so lange, bis ich die Dinge wirklich verstanden habe.
 
-Genau daraus ist mein eigenes Homelab entstanden, und parallel dazu baue ich ARIA (Autonomous Responsive Intelligent Assistant), einen KI-Assistenten, der komplett lokal laufen soll.
+Genau daraus ist mein eigenes Homelab entstanden und parallel dazu baue ich ARIA (Autonomous Responsive Intelligent Assistant), einen KI-Assistenten, der komplett lokal laufen soll.
 Was ich dabei baue und lerne, dokumentiere ich hier.
 
 **Kurz:**

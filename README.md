@@ -16,7 +16,6 @@ Was ich dabei baue und lerne, dokumentiere ich hier.
 - 🤖 Arbeite an meinem eigenen KI-Assistenten, komplett lokal und ohne Cloud
 - 🔍 Suche einen Einstieg in Infrastruktur oder IT-Security
 
----
 
 ## 🚧 Projekte
 
@@ -31,6 +30,8 @@ Grafana, Loki und Alertmanager. Sämtliche Konfigurationen liegen als Configurat
 
 **[-> Zum Repository](https://github.com/hoeger-s/homelab)**
 
+---
+
 ### 🎙️ [ARIA](https://github.com/hoeger-s/aria)
 
 Ein lokal laufender KI-Companion mit Sprachein- und -ausgabe. Komplett auf eigener Hardware, ohne Cloud-Dienste.
@@ -40,14 +41,12 @@ FastAPI-Backend, mit einer Orb-Oberfläche in Three.js.
 
 **[-> Zum Repository](https://github.com/hoeger-s/aria)**
 
----
 
 ## 🧭 Schwerpunkte
 
 `Virtualisierung` · `Netzwerksegmentierung` · `Firewall & VPN` · `Monitoring & Logging` · `Alerting` · `Reverse Proxy & TLS` · `Linux-Administration` 
 · `Self-Hosting` · `Containerisierung` · `Python` · `Lokale KI` · `Configuration as Code` · `Dokumentation`
 
----
 
 ## 🧰 Tech-Stack
 
@@ -60,7 +59,6 @@ FastAPI-Backend, mit einer Orb-Oberfläche in Three.js.
 **Skripting & Entwicklung**<br>
 ![Bash](https://img.shields.io/badge/Bash-1f2937?style=flat-square&logo=gnubash&logoColor=E8E8E8) ![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=E8E8E8) ![FastAPI](https://img.shields.io/badge/FastAPI-1f2937?style=flat-square&logo=fastapi&logoColor=E8E8E8) ![Ollama](https://img.shields.io/badge/Ollama-1f2937?style=flat-square&logo=ollama&logoColor=E8E8E8) ![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=E8E8E8)
 
----
 
 ## 📬 Kontakt
 

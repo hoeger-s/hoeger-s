@@ -26,7 +26,7 @@ und mir zum Ausprobieren und Testen dienen soll.
 
 Aktuell laufen darauf mehrere Dienste, die ich täglich nutze. Alle Web-Dienste liegen hinter einem zentralen Reverse Proxy mit
 Let's-Encrypt-Zertifikat. Betrieben wird das Ganze auf Proxmox in einem eigenen VLAN hinter zonenbasierter Firewall, überwacht mit Prometheus,
-Grafana, Loki und Alertmanager. Sämtliche Konfigurationen liegen als Configuration as Code im Repo.
+Grafana, Loki und Alertmanager. Sämtliche Konfigurationen liegen versioniert im Repo.
 
 **[-> Zum Repository](https://github.com/hoeger-s/homelab)**
 
@@ -45,7 +45,7 @@ FastAPI-Backend, mit einer Orb-Oberfläche in Three.js.
 ## 🧭 Schwerpunkte
 
 `Virtualisierung` · `Netzwerksegmentierung` · `Firewall & VPN` · `Monitoring & Logging` · `Alerting` · `Reverse Proxy & TLS` · `Linux-Administration` 
-· `Self-Hosting` · `Containerisierung` · `Python` · `Lokale KI` · `Configuration as Code` · `Dokumentation`
+· `Self-Hosting` · `Containerisierung` · `Python` · `Lokale KI` · `Git` · `Dokumentation`
 
 
 ## 🧰 Tech-Stack
